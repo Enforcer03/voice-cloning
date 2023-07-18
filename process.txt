@@ -1,0 +1,6 @@
+
+git clone https://github.com/misbah4064/Real-Time-Voice-Cloning.git
+cd Real-Time-Voice-Cloning/
+
+pip install -q -r requirements.txt
+apt-get install -qq libportaudio2
